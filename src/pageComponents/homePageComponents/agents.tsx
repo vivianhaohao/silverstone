@@ -13,7 +13,7 @@ const agents=[
         img:'/homePageResource/kairo.png',
         description:'Executing strategies 24/7 while you rest.',
     },
-                          
+
 ]
 
 
