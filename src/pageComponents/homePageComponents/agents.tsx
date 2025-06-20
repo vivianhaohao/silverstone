@@ -15,7 +15,7 @@ const agents=[
     },
     {
         name:'Aegis',
-        img:'',
+        img:'/homePageResource/wallet.png',
         description:'Secure your wallet and assets.',
     },
     {
