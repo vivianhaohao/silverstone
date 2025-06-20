@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "658008",
+      "name": "多语言",
+      "font_class": "duoyuyan",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "2287210",
+      "name": "用户登陆 ",
+      "font_class": "yonghudenglu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "3525170",
+      "name": "网站导航",
+      "font_class": "wangzhandaohang",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    }
+  ]
+}
