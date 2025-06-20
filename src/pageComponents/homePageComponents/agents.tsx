@@ -20,12 +20,12 @@ const agents=[
     },
     {
         name:'Janus',
-        img:'',
+        img:'/homePageResource/safeguard.png',
         description:'Safeguard your on-chain assets.',
     },
     {
         name:'Argus',
-        img:'',
+        img:'/homePageResource/whale.png',
         description:'Real-time monitoring and alerting of large on-chain transactions and other anomalies.',
     }
 ]
