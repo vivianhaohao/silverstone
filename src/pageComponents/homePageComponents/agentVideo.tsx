@@ -7,6 +7,7 @@ export default function Agentvideo(){
                    playsInline
                    muted
                    preload="auto"
+                   loop
 
             >
 
