@@ -12,6 +12,8 @@ const agents = [
     image: "/agentPageResource/kairo.png",
     desc: "Executing strategies 24/7 while you rest.",
   },
+
+
   {
     name: "Aegis",
     image: "/agentPageResource/wallet.png",

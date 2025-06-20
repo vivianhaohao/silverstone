@@ -13,21 +13,7 @@ const agents=[
         img:'/homePageResource/kairo.png',
         description:'Executing strategies 24/7 while you rest.',
     },
-    {
-        name:'Aegis',
-        img:'/homePageResource/wallet.png',
-        description:'Secure your wallet and assets.',
-    },
-    {
-        name:'Janus',
-        img:'/homePageResource/safeguard.png',
-        description:'Safeguard your on-chain assets.',
-    },
-    {
-        name:'Argus',
-        img:'/homePageResource/whale.png',
-        description:'Real-time monitoring and alerting of large on-chain transactions and other anomalies.',
-    }
+                          
 ]
 
 
